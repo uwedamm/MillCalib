@@ -15,7 +15,7 @@ $ ./MillCalib.exe -d1
 ```
 Note: "-d1" enables all debug print messages, may be a good starting point, not needed later
 
-test the connection to firmware:
+test the connection to firmware:<BR>
 t [ENTER]
 
 
