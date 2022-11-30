@@ -1,3 +1,8 @@
+# Usage
+youtube video will follow in few weeks (today is 30.11.2022)<BR>
+Results, which are measured on my mill can be found in bin/measresults.CSV
+
+
 # Installation using cygwin:
 install cygwin: https://www.cygwin.com/install.html
 
