@@ -1,0 +1,14 @@
+rs232devname = 2
+marlinreset = 1
+fspeed_probe_mmmin = 600
+fspeed_move_mmmin = 2400
+maxztest_mm = 10
+diamProbe_mm = 30
+probe_depth_mm = 9.0
+dist_xy_mm = 2
+dist_z_mm = 2
+free_xy_mm = 5
+probelen_xy_mm = 90
+probelen_z_mm = 40
+plate_sizex_mm = 100
+plate_sizey_mm = 100
