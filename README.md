@@ -5,12 +5,15 @@ Add packages:
 - gcc-g++
 - make
 
-execute cygwin
-	change to source directory. Note: '' are needed to be able to use windows paths, e.g.:
+execute cygwin<BR>
+change to source directory.<BR>
+Note: '' are needed to be able to use windows paths, e.g.:<BR>
+```
 $ cd 'f:\messknecht\Fraese\src\Antasten\MillCalib\src'
 $ make
-# note: "-d1" enables all debug print messages, may be a good starting point, not needed later
 $ ./MillCalib.exe -d1
+```
+Note: "-d1" enables all debug print messages, may be a good starting point, not needed later
 
 test the connection to firmware:
 t [ENTER]
